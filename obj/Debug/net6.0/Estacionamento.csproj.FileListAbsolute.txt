@@ -1,0 +1,15 @@
+/home/luci_dev/Área de Trabalho/Repositorio_git/12_BootcampDIOC#/BootcampDIO.NET/3_conhecendoPlataforma.NETcomC#/SistemaEstacionamento/bin/Debug/net6.0/Estacionamento
+/home/luci_dev/Área de Trabalho/Repositorio_git/12_BootcampDIOC#/BootcampDIO.NET/3_conhecendoPlataforma.NETcomC#/SistemaEstacionamento/bin/Debug/net6.0/Estacionamento.deps.json
+/home/luci_dev/Área de Trabalho/Repositorio_git/12_BootcampDIOC#/BootcampDIO.NET/3_conhecendoPlataforma.NETcomC#/SistemaEstacionamento/bin/Debug/net6.0/Estacionamento.runtimeconfig.json
+/home/luci_dev/Área de Trabalho/Repositorio_git/12_BootcampDIOC#/BootcampDIO.NET/3_conhecendoPlataforma.NETcomC#/SistemaEstacionamento/bin/Debug/net6.0/Estacionamento.dll
+/home/luci_dev/Área de Trabalho/Repositorio_git/12_BootcampDIOC#/BootcampDIO.NET/3_conhecendoPlataforma.NETcomC#/SistemaEstacionamento/bin/Debug/net6.0/Estacionamento.pdb
+/home/luci_dev/Área de Trabalho/Repositorio_git/12_BootcampDIOC#/BootcampDIO.NET/3_conhecendoPlataforma.NETcomC#/SistemaEstacionamento/obj/Debug/net6.0/Estacionamento.csproj.AssemblyReference.cache
+/home/luci_dev/Área de Trabalho/Repositorio_git/12_BootcampDIOC#/BootcampDIO.NET/3_conhecendoPlataforma.NETcomC#/SistemaEstacionamento/obj/Debug/net6.0/Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+/home/luci_dev/Área de Trabalho/Repositorio_git/12_BootcampDIOC#/BootcampDIO.NET/3_conhecendoPlataforma.NETcomC#/SistemaEstacionamento/obj/Debug/net6.0/Estacionamento.AssemblyInfoInputs.cache
+/home/luci_dev/Área de Trabalho/Repositorio_git/12_BootcampDIOC#/BootcampDIO.NET/3_conhecendoPlataforma.NETcomC#/SistemaEstacionamento/obj/Debug/net6.0/Estacionamento.AssemblyInfo.cs
+/home/luci_dev/Área de Trabalho/Repositorio_git/12_BootcampDIOC#/BootcampDIO.NET/3_conhecendoPlataforma.NETcomC#/SistemaEstacionamento/obj/Debug/net6.0/Estacionamento.csproj.CoreCompileInputs.cache
+/home/luci_dev/Área de Trabalho/Repositorio_git/12_BootcampDIOC#/BootcampDIO.NET/3_conhecendoPlataforma.NETcomC#/SistemaEstacionamento/obj/Debug/net6.0/Estacionamento.dll
+/home/luci_dev/Área de Trabalho/Repositorio_git/12_BootcampDIOC#/BootcampDIO.NET/3_conhecendoPlataforma.NETcomC#/SistemaEstacionamento/obj/Debug/net6.0/refint/Estacionamento.dll
+/home/luci_dev/Área de Trabalho/Repositorio_git/12_BootcampDIOC#/BootcampDIO.NET/3_conhecendoPlataforma.NETcomC#/SistemaEstacionamento/obj/Debug/net6.0/Estacionamento.pdb
+/home/luci_dev/Área de Trabalho/Repositorio_git/12_BootcampDIOC#/BootcampDIO.NET/3_conhecendoPlataforma.NETcomC#/SistemaEstacionamento/obj/Debug/net6.0/Estacionamento.genruntimeconfig.cache
+/home/luci_dev/Área de Trabalho/Repositorio_git/12_BootcampDIOC#/BootcampDIO.NET/3_conhecendoPlataforma.NETcomC#/SistemaEstacionamento/obj/Debug/net6.0/ref/Estacionamento.dll

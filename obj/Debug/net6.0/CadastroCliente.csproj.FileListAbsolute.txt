@@ -1,0 +1,15 @@
+/home/luci_dev/Área de Trabalho/Repositorio_git/12_BootcampDIOC#/BootcampDIO.NET/3_conhecendoPlataforma.NETcomC#/CadastroCliente/bin/Debug/net6.0/CadastroCliente
+/home/luci_dev/Área de Trabalho/Repositorio_git/12_BootcampDIOC#/BootcampDIO.NET/3_conhecendoPlataforma.NETcomC#/CadastroCliente/bin/Debug/net6.0/CadastroCliente.deps.json
+/home/luci_dev/Área de Trabalho/Repositorio_git/12_BootcampDIOC#/BootcampDIO.NET/3_conhecendoPlataforma.NETcomC#/CadastroCliente/bin/Debug/net6.0/CadastroCliente.runtimeconfig.json
+/home/luci_dev/Área de Trabalho/Repositorio_git/12_BootcampDIOC#/BootcampDIO.NET/3_conhecendoPlataforma.NETcomC#/CadastroCliente/bin/Debug/net6.0/CadastroCliente.dll
+/home/luci_dev/Área de Trabalho/Repositorio_git/12_BootcampDIOC#/BootcampDIO.NET/3_conhecendoPlataforma.NETcomC#/CadastroCliente/bin/Debug/net6.0/CadastroCliente.pdb
+/home/luci_dev/Área de Trabalho/Repositorio_git/12_BootcampDIOC#/BootcampDIO.NET/3_conhecendoPlataforma.NETcomC#/CadastroCliente/obj/Debug/net6.0/CadastroCliente.csproj.AssemblyReference.cache
+/home/luci_dev/Área de Trabalho/Repositorio_git/12_BootcampDIOC#/BootcampDIO.NET/3_conhecendoPlataforma.NETcomC#/CadastroCliente/obj/Debug/net6.0/CadastroCliente.GeneratedMSBuildEditorConfig.editorconfig
+/home/luci_dev/Área de Trabalho/Repositorio_git/12_BootcampDIOC#/BootcampDIO.NET/3_conhecendoPlataforma.NETcomC#/CadastroCliente/obj/Debug/net6.0/CadastroCliente.AssemblyInfoInputs.cache
+/home/luci_dev/Área de Trabalho/Repositorio_git/12_BootcampDIOC#/BootcampDIO.NET/3_conhecendoPlataforma.NETcomC#/CadastroCliente/obj/Debug/net6.0/CadastroCliente.AssemblyInfo.cs
+/home/luci_dev/Área de Trabalho/Repositorio_git/12_BootcampDIOC#/BootcampDIO.NET/3_conhecendoPlataforma.NETcomC#/CadastroCliente/obj/Debug/net6.0/CadastroCliente.csproj.CoreCompileInputs.cache
+/home/luci_dev/Área de Trabalho/Repositorio_git/12_BootcampDIOC#/BootcampDIO.NET/3_conhecendoPlataforma.NETcomC#/CadastroCliente/obj/Debug/net6.0/CadastroCliente.dll
+/home/luci_dev/Área de Trabalho/Repositorio_git/12_BootcampDIOC#/BootcampDIO.NET/3_conhecendoPlataforma.NETcomC#/CadastroCliente/obj/Debug/net6.0/refint/CadastroCliente.dll
+/home/luci_dev/Área de Trabalho/Repositorio_git/12_BootcampDIOC#/BootcampDIO.NET/3_conhecendoPlataforma.NETcomC#/CadastroCliente/obj/Debug/net6.0/CadastroCliente.pdb
+/home/luci_dev/Área de Trabalho/Repositorio_git/12_BootcampDIOC#/BootcampDIO.NET/3_conhecendoPlataforma.NETcomC#/CadastroCliente/obj/Debug/net6.0/CadastroCliente.genruntimeconfig.cache
+/home/luci_dev/Área de Trabalho/Repositorio_git/12_BootcampDIOC#/BootcampDIO.NET/3_conhecendoPlataforma.NETcomC#/CadastroCliente/obj/Debug/net6.0/ref/CadastroCliente.dll
